@@ -1,5 +1,6 @@
 {
   "name": "games-gg",
+  "displayName": "GAMES.GG",
   "version": "2.0.1",
   "description": "Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.",
   "author": {
@@ -11,5 +12,8 @@
   "license": "MIT",
   "keywords": ["games", "gaming", "guides", "reviews", "news", "deals"],
   "privacyPolicyUrl": "https://games.gg/privacy-policy/",
-  "icon": "assets/games-gg-icon-512.png"
+  "icon": "assets/games-gg-icon-512.png",
+  "documentationUrl": "https://help.games.gg/en/articles/2048414-use-gamesgg-with-your-ai-assistant",
+  "supportUrl": "https://help.games.gg",
+  "termsOfServiceUrl": "https://games.gg/terms-of-service/"
 }
