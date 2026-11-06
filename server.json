@@ -1,0 +1,36 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "gg.games/games-gg",
+  "title": "GAMES.GG",
+  "description": "Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.",
+  "version": "2.0.1",
+  "websiteUrl": "https://help.games.gg/en/articles/2048414-use-gamesgg-with-your-ai-assistant",
+  "icons": [
+    {
+      "src": "https://games.gg/logos/games-gg-icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    },
+    {
+      "src": "https://games.gg/logos/games-gg-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://games.gg/logos/games-gg-icon-256.png",
+      "mimeType": "image/png",
+      "sizes": ["256x256"]
+    },
+    {
+      "src": "https://games.gg/logos/games-gg-icon-128.png",
+      "mimeType": "image/png",
+      "sizes": ["128x128"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.games.gg/mcp"
+    }
+  ]
+}

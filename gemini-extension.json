@@ -1,0 +1,10 @@
+{
+  "name": "games-gg",
+  "version": "2.0.1",
+  "description": "Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.",
+  "mcpServers": {
+    "games-gg": {
+      "httpUrl": "https://mcp.games.gg/mcp"
+    }
+  }
+}
