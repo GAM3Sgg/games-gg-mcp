@@ -1,0 +1,15 @@
+{
+  "name": "games-gg",
+  "description": "The GAMES.GG plugin for Claude Code.",
+  "owner": {
+    "name": "GAMES.GG",
+    "url": "https://games.gg"
+  },
+  "plugins": [
+    {
+      "name": "games-gg",
+      "source": "./",
+      "description": "Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts."
+    }
+  ]
+}

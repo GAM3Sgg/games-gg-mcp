@@ -33,6 +33,14 @@ Custom connectors depend on your Claude plan and workspace settings.
 
 ## Claude Code
 
+Install the plugin:
+
+```sh
+/plugin install games-gg --marketplace GAM3Sgg/games-gg-mcp
+```
+
+Or add only the server:
+
 ```sh
 claude mcp add --transport http games-gg https://mcp.games.gg/mcp
 ```

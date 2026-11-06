@@ -9,5 +9,7 @@
   "homepage": "https://games.gg",
   "repository": "https://github.com/GAM3Sgg/games-gg-mcp",
   "license": "MIT",
-  "keywords": ["games", "gaming", "guides", "reviews", "news", "deals"]
+  "keywords": ["games", "gaming", "guides", "reviews", "news", "deals"],
+  "privacyPolicyUrl": "https://games.gg/privacy-policy/",
+  "icon": "assets/games-gg-icon-512.png"
 }
